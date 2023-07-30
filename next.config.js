@@ -6,7 +6,7 @@ const nextConfig = {
   },
   reactStrictMode: false,
   images: {
-    domains: ["localhost"],
+    domains: ["https://shiny-strudel-8e3e6e.netlify.app"],
   },
 };
 
