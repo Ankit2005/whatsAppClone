@@ -1,4 +1,7 @@
-export const HOST = "http://localhost:5005";
+// export const HOST = "http://localhost:5005";
+export const HOST = "https://whats-app-backend.vercel.app";
+
+// https://whats-app-backend.vercel.app/
 // export const HOST = "http://192.168.0.119:5005";
 
 const authRoute = `${HOST}/api/auth`;
