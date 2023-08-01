@@ -6,7 +6,7 @@ const nextConfig = {
   },
   reactStrictMode: false,
   images: {
-    domains: ["https://whats-app-clone-omega-liart.vercel.app", "localhost"],
+    domains: ["https://whats-app-clone-esram75pr-ankit2005.vercel.app", "localhost"],
   },
 };
 
